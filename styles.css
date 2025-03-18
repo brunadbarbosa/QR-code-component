@@ -59,6 +59,25 @@ body {
   margin-top: 0;
 }
 
+@media only screen and (min-width: 450px) {
+  .container {
+    padding: 0 4rem;
+  }
+
+  .card {
+    max-width: 350px;
+    max-height: 602px;
+  }
+
+  .card__title {
+    font-size: 1.5rem;
+  }
+
+  .card__description {
+    font-size: 1rem;
+  }
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
