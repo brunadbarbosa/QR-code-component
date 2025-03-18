@@ -37,7 +37,7 @@ Desafio fornecido pelo [Frontend Mentor](https://www.frontendmentor.io). Obrigad
 
 # QR Code Component | Frontend Mentor Challenge
 
-![Project Preview](./preview.jpg)
+![Project Preview](./result.png)
 
 ## 🚀 About the project
 
