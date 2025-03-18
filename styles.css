@@ -1,16 +1,23 @@
 body {
   background-color: hsl(212, 45%, 89%);
-  min-height: 100vh;
   margin: 0;
 }
 
+.body--content {
+  min-height: 100vh;
+  margin: 0;
+  font-family: "outfit", sans-serif;
+  align-items: center;
+}
+
 .container {
+  min-height: 100vh;
   align-items: center;
   flex-direction: column;
   margin: auto;
   display: flex;
   justify-content: center;
-  padding: 2rem;
+  padding: 0 2rem;
 }
 
 .card {
@@ -29,10 +36,34 @@ body {
   overflow: hidden;
 }
 
-.container,
+.card__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+.card__title {
+  font-style: bold;
+  font-size: 1.375rem;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.card__description {
+  color: hsl(228, 12%, 44%);
+  font-size: 0.9375rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  line-height: 1.4;
+  margin-top: 0;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
+  padding-bottom: 0;
+  justify-content: flex-end;
 }
 
 .attribution a {
