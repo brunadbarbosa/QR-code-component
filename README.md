@@ -1,6 +1,6 @@
 # QR Code Component | Frontend Mentor Challenge
 
-![Project Preview](./preview.jpg)
+![Project Preview](./result.png)
 
 ## 🚀 Sobre o projeto
 
@@ -23,7 +23,7 @@ Este é um pequeno componente de QR Code criado como parte de um desafio do [Fro
 
 O projeto está disponível online! Confira aqui:
 
-[🔗 Link do projeto](#)
+[🔗 Link do projeto](https://qr--code-component.vercel.app)
 
 ## 💙 Agradecimentos
 
@@ -31,7 +31,7 @@ Desafio fornecido pelo [Frontend Mentor](https://www.frontendmentor.io). Obrigad
 
 ---
 
-🚀 Feito com dedicação por [Bruna Barbosa] (https://github.com/brunadbarbosa).
+🚀 Feito com dedicação por [Bruna Barbosa](https://github.com/brunadbarbosa).
 
 ---
 
@@ -60,7 +60,7 @@ This is a small QR Code component created as part of a [Frontend Mentor](https:/
 
 The project is available online! Check it out here:
 
-[🔗 Project link](#)
+[🔗 Project link](https://qr--code-component.vercel.app)
 
 ## 💙 Acknowledgments
 
